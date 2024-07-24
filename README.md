@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kartikeytripathi940@gmail.com**
 
-- ⚡ Fun fact **I usually ignore things:)**
+- ⚡ Fun fact : **I usually ignore things:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
