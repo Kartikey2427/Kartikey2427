@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikey2427&show_icons=true&locale=en&layout=compact" alt="kartikey2427" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikey2427&show_icons=true&locale=en" alt="kartikey2427" /></p>
+![](https://leetcard.jacoblin.cool/kartikeytripathi940?ext=heatmap)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey2427&" alt="kartikey2427" /></p>
