@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java,C and JavaScript**
 
-- 📫 How to reach me **kartikeytripathi940@gmail.com**
+- 📫 Reach me **kartikeytripathi940@gmail.com**
 
 - ⚡ Fun fact : **I usually ignore things:)**
 
