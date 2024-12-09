@@ -9,7 +9,7 @@
 
 - 📫 Reach me **kartikeytripathi940@gmail.com**
 
-- ⚡ **Currently learning MERN STACK and Data Structures in   JAVA**
+- ⚡ **Currently learning MERN STACK and Data Structures with JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
