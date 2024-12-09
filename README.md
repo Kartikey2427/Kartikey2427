@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey Tripathi</h1>
-<h3 align="center">A full stack developer!!</h3>
+<!-- <h3 align="center">A full stack developer!!</h3> -->
 
 <img align ="right" alt="coding" width = "400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" >
 
@@ -9,7 +9,7 @@
 
 - 📫 Reach me **kartikeytripathi940@gmail.com**
 
-- ⚡ Fun fact : **I usually ignore things:)**
+- ⚡ **Currently learning MERN STACK and Data Structures in JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
