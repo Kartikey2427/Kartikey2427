@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey Tripathi</h1>
-<h3 align="center">A Full Stack Developer!!</h3>
+<h2 align="center">A Full Stack Developer!!</h2>
 
 <img align ="right" alt="coding" width = "400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" >
 
