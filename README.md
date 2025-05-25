@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikey2427&label=Profile%20views&color=0e75b6&style=flat" alt="kartikey2427" /> </p>
 
-- 💬 Ask me about **Java, C and JavaScript**
+- 💬 Ask me about **Java, Javascript and C**
 
 - 📫 Reach me **kartikeytripathi940@gmail.com**
 
