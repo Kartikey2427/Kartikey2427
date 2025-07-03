@@ -24,6 +24,4 @@
 <br><br>
 ![](https://leetcard.jacoblin.cool/kartikeytripathi940?ext=heatmap)
 
-<br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Kartikey+Tripathi;A+Full+Stack+Developer;Loves+to+build+cool+things" />
 
