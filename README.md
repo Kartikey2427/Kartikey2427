@@ -5,11 +5,11 @@
 <img align ="right" alt="coding" width = "400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" >
 
 
-- 💬 Ask me about **Java, Javascript and C**
+- 💬 Ask me about **Java, Javascript and C.**
 
 - 📫 Reach me **kartikeytripathi940@gmail.com**
 
-- ⚡ **Currently learning MERN STACK and Data Structures with JAVA**
+- ⚡ **Currently learning MERN STACK and Data Structures with JAVA.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
