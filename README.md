@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech Computer Science** student with a strong foundation in **software development and problem-solving**  
+- 🎓 Final-year **B.Tech Computer Science** student with a strong foundation in **Web development and problem-solving**  
 - 💬 Ask me about **Java, JavaScript, Data Structures & Algorithms, and Web Development**  
 - 🚀 Currently building full-stack applications using the **MERN Stack** and strengthening **DSA with Java**  
 - 🧠 Passionate about writing **clean, efficient, and scalable code**  
