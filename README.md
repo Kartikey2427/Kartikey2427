@@ -1,6 +1,3 @@
-<!-- <h1 align="center">Hi 👋, I'm Kartikey Tripathi</h1>
-<!-- <h2 align="center">A Full Stack Developer!!</h2> -->
-
 <h1 align="center">🙋🏻‍♂️ Hey, I'm Kartikey Tripathi! </h1>
 
 <p align="center">
@@ -8,10 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ffee&center=true&vCenter=true&width=520&lines=Turning+Ideas+into+Code.;Always+Learning+📚;Solve.+Optimize.+Scale.;Crafting+Digital+Experiences+🧠.;Late+Nights+Early+Commits+🌙;Build+With+Purpose+🔥;&cursorColor=ff4ecd" />
 
 </p>
-
-<!-- <p align = "center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Kartikey+Tripathi;A+Full+Stack+Developer!;Turning+caffeine+into+clean+code!" /> </p> -->
-
-<!-- <img align ="right" alt="coding" width = "400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" > -->
 
 ## 👨‍💻 About Me
 
@@ -23,7 +16,6 @@
 
 
 <h3 align="left">🌐 Connect with Me</h3>
-
 <h3  align="center" >
 
 <a href="mailto:kartikeytripathi940@gmail.com"><img src="https://github.com/user-attachments/assets/d17ad93f-916b-4fd7-ad29-65ab3ba150e1"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
