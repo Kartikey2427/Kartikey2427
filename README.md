@@ -3,7 +3,6 @@
 <p align="center">
     Full-Stack Developer | MERN Stack | Data Structures & Algorithms <br><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ffee&center=true&vCenter=true&width=520&lines=Turning+Ideas+into+Code.;Always+Learning+📚;Solve.+Optimize.+Scale.;Crafting+Digital+Experiences+🧠.;Late+Nights+Early+Commits+🌙;Build+With+Purpose+🔥;&cursorColor=ff4ecd" />
-
 </p>
 
 ## 👨‍💻 About Me
