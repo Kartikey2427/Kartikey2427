@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Software Engineer @ **Infosys**
+- 💼 Software Engineer @ **Infosys Limited**
 - ☕ Building robust applications with **Java** while creating modern web experiences using the **MERN Stack**.
 - 🧩 Passionate about transforming complex problems into clean, scalable software solutions.
 - 🚀 Exploring **Backend Engineering**, **REST APIs**, **System Design**, and modern software architecture.
