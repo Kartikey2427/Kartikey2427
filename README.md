@@ -5,13 +5,30 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ffee&center=true&vCenter=true&width=520&lines=Turning+Ideas+into+Code.;Always+Learning+📚;Solve.+Optimize.+Scale.;Crafting+Digital+Experiences+🧠.;Late+Nights+Early+Commits+🌙;Build+With+Purpose+🔥;&cursorColor=ff4ecd" />
 </p>
 
-## 👨‍💻 About Me
+<!-- ##  About Me
 
 - 🎓 Final-year **B.Tech Computer Science** student with a strong foundation in **Web development and problem-solving**  
 - 💬 Ask me about **Java, JavaScript, Data Structures & Algorithms, and Web Development**  
 - 🚀 Currently building full-stack applications using the **MERN Stack** and strengthening **DSA with Java**  
 - 🧠 Passionate about writing **clean, efficient, and scalable code**  
-- 📫 Reach me at **kartikeytripathi940@gmail.com**  
+- 📫 Reach me at **kartikeytripathi940@gmail.com** -->
+  
+
+## 👨‍💻 About Me
+
+Software Engineer @ **Infosys** with a strong foundation in **Java**, **SQL**, **Data Structures & Algorithms**, and **Full-Stack Development**.
+
+I enjoy building scalable web applications, solving challenging programming problems, and continuously learning modern software engineering practices.
+
+### 🔹 Core Expertise
+- JAVA
+- SQL
+- FULL STACK
+- REST APIs
+- DATA STRUCTURES & ALGORITHMS
+- GIT & GITHUB
+
+📫 **Email:** kartikeytripathi940@gmail.com
 
 
 ## 🌐 Connect with Me
