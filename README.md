@@ -11,10 +11,19 @@
 - 💬 Ask me about **Java, JavaScript, Data Structures & Algorithms, and Web Development**  
 - 🚀 Currently building full-stack applications using the **MERN Stack** and strengthening **DSA with Java**  
 - 🧠 Passionate about writing **clean, efficient, and scalable code**  
-- 📫 Reach me at **kartikeytripathi940@gmail.com** -->
-  
+- 📫 Reach me at **kartikeytripathi940@gmail.com**-->
 
 ## 👨‍💻 About Me
+
+- 💼 Software Engineer @ **Infosys**
+- ☕ Building robust applications with **Java** while creating modern web experiences using the **MERN Stack**.
+- 🧩 Passionate about transforming complex problems into clean, scalable software solutions.
+- 🚀 Exploring **Backend Engineering**, **REST APIs**, **System Design**, and modern software architecture.
+- 🤝 Let's connect, collaborate, and build something impactful.
+- 📧 **kartikeytripathi940@gmail.com**
+  
+
+<!--## 👨‍💻 About Me
 
 Software Engineer @ **Infosys** with a strong foundation in **Java**, **SQL**, **Data Structures & Algorithms**, and **Full-Stack Development**.
 
@@ -28,7 +37,7 @@ I enjoy building scalable web applications, solving challenging programming prob
 - DATA STRUCTURES & ALGORITHMS
 - GIT & GITHUB
 
-📫 **Email:** kartikeytripathi940@gmail.com
+📫 **Email:** kartikeytripathi940@gmail.com-->
 
 
 ## 🌐 Connect with Me
